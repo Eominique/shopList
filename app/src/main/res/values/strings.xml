@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">shopList</string>
+    <string name="archived_lists">Archived Shopping Lists</string>
+    <string name="shopping_lists">Shopping Lists</string>
 </resources>
